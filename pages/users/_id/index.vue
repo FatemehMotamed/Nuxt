@@ -6,7 +6,10 @@
 
 <script>
     export default {
-        name: "index"
+        name: "index",
+        validate(data){
+            return /^\d$/.test(data.params.id)
+        }
     }
 </script>
 
