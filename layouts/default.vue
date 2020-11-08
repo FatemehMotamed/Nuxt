@@ -3,7 +3,7 @@
 
         <HeadrPage></HeadrPage>
         <Nuxt />
-    <FooterPage></FooterPage>
+        <FooterPage></FooterPage>
 
 
 

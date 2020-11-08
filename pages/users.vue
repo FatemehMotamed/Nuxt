@@ -21,8 +21,6 @@
             this.$router.push("/users/" + this.userId)
         },
 
-
-
     }
     }
 </script>
