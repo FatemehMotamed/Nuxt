@@ -15,5 +15,7 @@
     "nuxt": "^2.14.6",
     "vuex": "^3.5.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@babel/preset-stage-2": "^7.8.3"
+  }
 }
